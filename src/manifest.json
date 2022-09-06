@@ -1,0 +1,13 @@
+{
+	"manifest_version": 1,
+	"id": "com.vinny.DiaryForJoplin",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "Diary for Joplin",
+	"description": "Creates a new entry for daily notes",
+	"author": "Vinícius Castanheira",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [],
+	"categories": []
+}
